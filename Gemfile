@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.3.1'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.8'
@@ -61,7 +61,7 @@ gem 'refinerycms-authentication-devise', '~> 1.0'
 #  gem 'refinerycms-page-images', ['~> 3.0', '>= 3.0.0']
 
 # The Ruby version is specified here so that Heroku uses the right version.
-ruby nil
+ruby "2.3.1"
 
 # Gems that have been added for Heroku support
 group :production do
