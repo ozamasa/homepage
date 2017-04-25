@@ -69,4 +69,5 @@ group :production do
   gem 'rails_12factor'
   gem 'puma'
   gem 'pg'
+  gem 'fog-aws'
 end
